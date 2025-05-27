@@ -5,24 +5,12 @@
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and continuously learning new technologies.
 
 ## 🚀 About Me
-- 🌱 I’m currently working on: **[Your current project or learning focus]**
-- 💻 My main tech stack: **[Languages/Frameworks you use most]**
-- 👯 I’m looking to collaborate on: **[Types of projects or areas of interest]**
-- 💬 Ask me about: **[Topics you enjoy discussing or helping with]**
-- 📫 How to reach me: **[Your preferred contact or social links]**
+- 🌱 I’m currently working on: **[web development]**
+- 💻 My main tech stack: **[full stack using (MERN)]**
+- 👯 I’m looking to collaborate on: **[any type of projects]**
+- 💬 Ask me about: **[web design and development]**
+- 📫 How to reach me: **[@n0t.nosa on instagram]**
 
-## 🛠️ Projects
-
-<!-- Add your projects below! Replace example entries with your own -->
-
-### [Project Name 1](https://github.com/0din-glitch/project1)
-Short description of what this project does, its purpose, and any standout features.
-
-### [Project Name 2](https://github.com/0din-glitch/project2)
-Brief summary of this project, the tech stack, and what makes it interesting.
-
-### [Project Name 3](https://github.com/0din-glitch/project3)
-A couple of lines about this project, its impact, or what you learned from it.
 
 ## 📊 GitHub Stats
 
